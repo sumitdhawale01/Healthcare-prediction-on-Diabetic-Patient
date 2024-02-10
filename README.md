@@ -8,7 +8,7 @@ This project endeavors to develop a predictive model for identifying diabetes in
 - Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, Imbalanced-learn
 
 ## Configuration
-Ensure the dataset ("health care diabetes.csv") is stored in the project directory. The Jupyter notebook ("Healthcare-prediction-on-Diabetic-Patient.ipynb") encompasses the data preprocessing steps, detailing the handling of missing values, outliers, and feature selection.
+Ensure the dataset ("health care diabetes.csv") is stored in the project directory. The Jupyter notebook ("Healthcare_prediction_on_Diabetic_Patient.ipynb") encompasses the data preprocessing steps, detailing the handling of missing values, outliers, and feature selection.
 
 ## Models and Algorithms
 #### The project employs several machine learning models, including:
